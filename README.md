@@ -1,5 +1,6 @@
 # CollabTests
 
-first row
-second
-third
+zero
+one
+two
+three last changes from git
